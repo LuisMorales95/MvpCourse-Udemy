@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MvpCourse</string>
+    <string name="hintFirstName">First Name</string>
+    <string name="hintLastName">Last Name</string>
+    <string name="textLogIn">Log In</string>
+</resources>
